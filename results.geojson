@@ -1,0 +1,301 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "plot_id": "PLOT-001",
+                "status": "compliant",
+                "compliance_score": 95,
+                "last_inspection": "2024-02-01"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            81.75,
+                            21.15
+                        ],
+                        [
+                            81.755,
+                            21.15
+                        ],
+                        [
+                            81.755,
+                            21.155
+                        ],
+                        [
+                            81.75,
+                            21.155
+                        ],
+                        [
+                            81.75,
+                            21.15
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "plot_id": "PLOT-002",
+                "status": "encroachment",
+                "compliance_score": 45,
+                "violation_type": "boundary_extension",
+                "severity": "high",
+                "last_inspection": "2024-02-01"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            81.76,
+                            21.15
+                        ],
+                        [
+                            81.768,
+                            21.15
+                        ],
+                        [
+                            81.768,
+                            21.157
+                        ],
+                        [
+                            81.76,
+                            21.157
+                        ],
+                        [
+                            81.76,
+                            21.15
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "plot_id": "PLOT-003",
+                "status": "vacant",
+                "compliance_score": 60,
+                "violation_type": "non_utilization",
+                "severity": "medium",
+                "last_inspection": "2024-01-20"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            81.77,
+                            21.16
+                        ],
+                        [
+                            81.78,
+                            21.16
+                        ],
+                        [
+                            81.78,
+                            21.168
+                        ],
+                        [
+                            81.77,
+                            21.168
+                        ],
+                        [
+                            81.77,
+                            21.16
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "plot_id": "PLOT-004",
+                "status": "compliant",
+                "compliance_score": 92,
+                "last_inspection": "2024-02-05"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            81.755,
+                            21.165
+                        ],
+                        [
+                            81.762,
+                            21.165
+                        ],
+                        [
+                            81.762,
+                            21.171
+                        ],
+                        [
+                            81.755,
+                            21.171
+                        ],
+                        [
+                            81.755,
+                            21.165
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "plot_id": "PLOT-005",
+                "status": "encroachment",
+                "compliance_score": 35,
+                "violation_type": "unauthorized_construction",
+                "severity": "high",
+                "last_inspection": "2024-01-28"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            81.765,
+                            21.17
+                        ],
+                        [
+                            81.774,
+                            21.17
+                        ],
+                        [
+                            81.774,
+                            21.178
+                        ],
+                        [
+                            81.765,
+                            21.178
+                        ],
+                        [
+                            81.765,
+                            21.17
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "plot_id": "PLOT-006",
+                "status": "compliant",
+                "compliance_score": 98,
+                "last_inspection": "2024-02-10"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            81.78,
+                            21.155
+                        ],
+                        [
+                            81.786,
+                            21.155
+                        ],
+                        [
+                            81.786,
+                            21.16
+                        ],
+                        [
+                            81.78,
+                            21.16
+                        ],
+                        [
+                            81.78,
+                            21.155
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "plot_id": "PLOT-007",
+                "status": "vacant",
+                "compliance_score": 55,
+                "violation_type": "non_development",
+                "severity": "medium",
+                "last_inspection": "2024-01-12"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            81.752,
+                            21.158
+                        ],
+                        [
+                            81.758,
+                            21.158
+                        ],
+                        [
+                            81.758,
+                            21.163
+                        ],
+                        [
+                            81.752,
+                            21.163
+                        ],
+                        [
+                            81.752,
+                            21.158
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "plot_id": "PLOT-008",
+                "status": "compliant",
+                "compliance_score": 90,
+                "last_inspection": "2024-02-08"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            81.772,
+                            21.152
+                        ],
+                        [
+                            81.782,
+                            21.152
+                        ],
+                        [
+                            81.782,
+                            21.159
+                        ],
+                        [
+                            81.772,
+                            21.159
+                        ],
+                        [
+                            81.772,
+                            21.152
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
